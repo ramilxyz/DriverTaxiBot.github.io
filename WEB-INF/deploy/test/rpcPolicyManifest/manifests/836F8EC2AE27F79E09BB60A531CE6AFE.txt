@@ -1,2 +1,0 @@
-serviceClass: test.client.client.GreetingService
-path: A3F0DAC4529F6F84ED584BD96D27DF1F.gwt.rpc
